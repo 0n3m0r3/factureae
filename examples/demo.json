@@ -1,0 +1,14 @@
+{
+  "number": "FA-2026-001",
+  "issue_date": "2026-09-08",
+  "service_date": "2026-09-07",
+  "seller_name": "Louka Altdorf Reynes",
+  "seller_address": ["Lille", "France"],
+  "siret": "12345678901234",
+  "client_name": "Client Example SARL",
+  "client_address": ["12 rue de la Paix", "75002 Paris"],
+  "lines": [
+    {"description": "Developpement script Python", "quantity": "4", "unit_price_ht": "50.00"}
+  ],
+  "franchise_tva": true
+}

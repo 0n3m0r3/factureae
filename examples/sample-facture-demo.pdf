@@ -1,0 +1,66 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1658 >>
+stream
+BT /F1 18 Tf 50 800 Td (FACTURE) Tj ET
+BT /F1 11 Tf 50 772 Td (Numero: FA-2026-001) Tj ET
+BT /F1 11 Tf 50 756 Td (Date: 2026-09-08) Tj ET
+BT /F1 11 Tf 50 740 Td (Prestation: 2026-09-07) Tj ET
+BT /F1 13 Tf 50 712 Td (Vendeur) Tj ET
+BT /F1 11 Tf 50 696 Td (Louka Altdorf Reynes) Tj ET
+BT /F1 11 Tf 50 682 Td (Lille) Tj ET
+BT /F1 11 Tf 50 668 Td (France) Tj ET
+BT /F1 11 Tf 50 654 Td (SIRET 12345678901234) Tj ET
+BT /F1 13 Tf 50 630 Td (Client) Tj ET
+BT /F1 11 Tf 50 614 Td (Client Example SARL) Tj ET
+BT /F1 11 Tf 50 600 Td (12 rue de la Paix) Tj ET
+BT /F1 11 Tf 50 586 Td (75002 Paris) Tj ET
+BT /F1 11 Tf 50 558 Td (Description) Tj ET
+BT /F1 11 Tf 320 558 Td (Qte) Tj ET
+BT /F1 11 Tf 370 558 Td (PU HT) Tj ET
+BT /F1 11 Tf 450 558 Td (Total HT) Tj ET
+0.4 w 50 550 m 540 550 l S
+BT /F1 11 Tf 50 532 Td (Developpement script Python) Tj ET
+BT /F1 11 Tf 320 532 Td (4) Tj ET
+BT /F1 11 Tf 370 532 Td (50.00 EUR) Tj ET
+BT /F1 11 Tf 450 532 Td (200.00 EUR) Tj ET
+BT /F1 11 Tf 370 506 Td (Total HT) Tj ET
+BT /F1 11 Tf 450 506 Td (200.00 EUR) Tj ET
+BT /F1 11 Tf 370 490 Td (TVA) Tj ET
+BT /F1 11 Tf 450 490 Td (0.00 EUR) Tj ET
+BT /F1 11 Tf 370 474 Td (Total TTC) Tj ET
+BT /F1 11 Tf 450 474 Td (200.00 EUR) Tj ET
+BT /F1 11 Tf 50 446 Td (Payable sous 30 jours.) Tj ET
+BT /F1 13 Tf 50 426 Td (Mentions legales) Tj ET
+BT /F1 9 Tf 50 412 Td (SIRET 12345678901234) Tj ET
+BT /F1 9 Tf 50 398 Td (Entreprise individuelle \(EI\)) Tj ET
+BT /F1 9 Tf 50 384 Td (TVA non applicable, art. 293 B du CGI) Tj ET
+BT /F1 9 Tf 50 370 Td (Pas d'escompte pour paiement anticipe. En cas de retard de paiement, taux egal au taux directeu) Tj ET
+BT /F1 20 Tf 120 400 Td (DEMO - unpaid copy) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000001951 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+2021
+%%EOF
